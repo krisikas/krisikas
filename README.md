@@ -50,9 +50,9 @@ I build high-performance distributed backends, autonomous UAV pipelines, and har
 | Project | System Architecture & Highlights | Tech Stack |
 | :--- | :--- | :--- |
 | [**pickme_drone**](https://github.com/krisikas/pickme_drone) | Multi-container simulation environment for autonomous quadcopters with zero-dependency macOS orchestration, PX4 SITL, and ROS 2 bridge. | `C++` `Python` `PX4 SITL` `ROS 2` `Gazebo` `Docker` |
-| [**CU_repet_ai**](https://github.com/krisikas/CU_repet_ai) | Interactive AI tutor platform: High-concurrency **Go backend** implementing Socratic evaluation workflows, coupled with a cross-platform mobile client. | `Go (Golang)` `React Native` `Expo` `TypeScript` `LLMs` |
 | [**Geoscan_MOPS**](https://github.com/krisikas/Geoscan_MOPS) | Distributed drone inspection infrastructure: Agisoft Metashape photogrammetry, real-time telemetry streaming, and autonomous mission dispatch via **MCP**. | `Python` `FastAPI` `PostgreSQL` `MCP` `YOLO` `SAM` |
 | [**VSOSH_RT_2026**](https://github.com/krisikas/VSOSH_RT_2026) | National Robotics Olympiad end-to-end system: custom mechanical CAD design, PCB power distribution/logic circuitry, and deterministic C++ control. | `C++` `Embedded` `KOMPAS-3D` `Circuit Design` |
+| [**CU_repet_ai**](https://github.com/krisikas/CU_repet_ai) | Interactive AI tutor platform: High-concurrency **Go backend** implementing Socratic evaluation workflows, coupled with a cross-platform mobile client. | `Go (Golang)` `React Native` `Expo` `TypeScript` `LLMs` |
 
 ---
 
